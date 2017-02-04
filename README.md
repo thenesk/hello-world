@@ -1,6 +1,6 @@
 # hello-world
 sandbox to play with github
-git learning so fun
+git learning is fun
 
 # markdown formating test
 here is some `code`
